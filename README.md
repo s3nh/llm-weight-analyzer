@@ -19,3 +19,10 @@ numpy>=1.24.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 ```
+
+#TODO
+
+```
+args for different architectures
+```
+
